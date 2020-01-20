@@ -8,7 +8,7 @@
 // Última modificación: 6 de Enero, 2020
 
 //Operadores con constantes
-
+Bueno bueno
 let numero = 50
 let otroNumero = 125
 let numeroFloat: Float = 249.34
